@@ -1,0 +1,19 @@
+{
+  "name": "pg-cpqr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikfrank/pg-cpqr.git"
+  },
+  "author": "nik frank",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nikfrank/pg-cpqr/issues"
+  },
+  "homepage": "https://github.com/nikfrank/pg-cpqr#readme"
+}
